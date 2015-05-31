@@ -1,0 +1,3 @@
+<h1>Hello, Pappu!</h1>
+<p><%= link_to 'My Blog', articles_path %>,If you can call it one :P</p>
+<p>Kuch aap bhi likhiye<%= link_to 'New article', new_article_path %></p>
